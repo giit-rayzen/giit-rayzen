@@ -1,11 +1,13 @@
 - 👋 Hi, I’m Gaurav kanojiya
--  IIT BHU'24
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+-  Graduated from    IIT BHU Varanasi
+- 👀 I’m interested in software developer roles.
+- 🌱 I’m currently learning Cloud & Devops.
+
+- Skills: C++, Python,Javascript,Reactjs, Typescript,Node.js,Mongodb,Mysql,Websockets,Rest APi, AWS, Docker,Kubernets
+
 - 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+kanojiya63gaurav@gmail.com
+
 
 <!---
 giit-rayzen/giit-rayzen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
