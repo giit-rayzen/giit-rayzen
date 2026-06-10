@@ -3,7 +3,7 @@
 <h3 align="center">A passionate developer from India</h3>
 <h4 align='center'>Graduated from    IIT BHU Varanasi</h4>
 
-- 🔭 I’m currently working on **MERN Stack and Cloud Computing** 🌱
+- 🔭 I’m currently working on **EDGE-Browser(C++)** **MERN Stack and Cloud Computing** 🌱
 - - 👀 I’m interested in software developer roles.
 
 - 🌱 I’m currently learning **Amazon Web Services**
